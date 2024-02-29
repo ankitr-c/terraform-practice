@@ -1,4 +1,7 @@
 keys\proven-answer-414613-6d64d16e0d58-gitlab-ci.json
 keys
+.terraform.lock.hcl
+terraform-provider-google_v5.18.0_x5.exe
 terraform\.terraform.lock.hcl
-terraform\.terraform\providers\registry.terraform.io\hashicorp\google\5.18.0\windows_386\terraform-provider-google_v5.18.0_x5.exe
+.terraform
+
