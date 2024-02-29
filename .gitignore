@@ -4,4 +4,6 @@ keys
 terraform-provider-google_v5.18.0_x5.exe
 terraform\.terraform.lock.hcl
 .terraform
-
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform.tfstate
